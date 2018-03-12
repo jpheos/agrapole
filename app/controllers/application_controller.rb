@@ -4,4 +4,5 @@ class ApplicationController < ActionController::Base
   def home
     render plain: "ok :)"
   end
+
 end
